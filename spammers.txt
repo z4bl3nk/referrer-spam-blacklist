@@ -24,7 +24,7 @@ cenoval.ru
 cityadspix.com
 ci.ua
 customsua.com.ua
-darodar.com
+.*darodar.com
 delfin-aqua.com.ua
 dipstar.org
 domination.ml
@@ -38,8 +38,8 @@ europages.com.ru
 event-tracking.com
 forum20.smailik.org
 forum69.info
-free-share-buttons.com
-free-social-buttons.com
+.*free-share-buttons.com
+.*free-social-buttons.com
 generalporn.org
 get-free-traffic-now.com
 ghazel.ru
@@ -69,10 +69,13 @@ mebeldekor.com.ua
 med-zdorovie.com.ua
 mirobuvi.com.ua
 myftpupload.com
+mysearch.com
 ok.ru
 onlywoman.org
 o-o-6-o-o.com
 o-o-8-o-o.ru
+offers.bycontext.com
+obrazky.cz
 palvira.com.ua
 pornhub-forum.ga
 pornhub-forum.uni.me
@@ -86,6 +89,7 @@ sanjosestartups.com
 savetubevideo.com
 screentoolkit.com
 search-error.com
+searches.vi-view.com
 semalt.com
 seoexperimenty.ru
 sexyteens.hol.es
@@ -97,10 +101,12 @@ socialseet.ru
 superiends.org
 theguardlan.com
 trion.od.ua
+urlopener.com
 vodkoved.ru
 webmaster-traffic.com
 websites-reviews.com
 websocial.me
+whattosearch.com
 ykecwqlixx.ru
 youporn-forum.ga
 youporn-forum.uni.me
